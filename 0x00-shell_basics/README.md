@@ -27,3 +27,4 @@ Scrips as per course requirement
 | [`11-lists`](./11-lists) | Show a list of contents fom multiple dirs |
 | [`12-file_type`](./12-file_type) | Show  file type |
 | [`13-symbolic_link`](./13-symbolic_link) | Create a symbolic link |
+| [`14-copy_html`](./14-copy_html) | Wildcard (*) regex copy |
