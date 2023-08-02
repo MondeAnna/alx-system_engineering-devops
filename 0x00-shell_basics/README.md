@@ -30,3 +30,4 @@ Scrips as per course requirement
 | [`14-copy_html`](./14-copy_html) | Wildcard (*) regex copy |
 | [`100-lets_move`](./100-lets_move) | Leading uppercase regex move |
 | [`101-clean_emacs`](./101-clean_emacs) | Trailing tilde file regex removal |
+| [`102-tree`](./102-tree) | Use parent attribut to `mkdir` |
