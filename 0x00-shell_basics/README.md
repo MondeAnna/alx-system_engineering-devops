@@ -14,3 +14,4 @@ Scrips as per course requirement
 | Filename | Description |
 | -------- | ----------- |
 | [`0-current_working_directory`](./0-current_working_directory) | Show current dir's absolute pathname | 
+| [`1-listit`](1-listit) | Show `pwd` contents |
