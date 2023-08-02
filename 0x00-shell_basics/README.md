@@ -11,4 +11,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 
 Scrips as per course requirement
 
-_Yet to be added_
+| Filename | Description |
+| -------- | ----------- |
+| [`0-current_working_directory`](./0-current_working_directory) | Show current dir's absolute pathname | 
