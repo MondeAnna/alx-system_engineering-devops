@@ -21,3 +21,4 @@ Scrips as per course requirement
 | [`5-listfilesdigitonly`](./5-listfilesdigitonly) | Show all contents in `pwd` with numeric id's |
 | [`6-firstdirectory`](./6-firstdirectory) | Create the dir `/tmp/my_first_directory` |
 | [`7-movethatfile`](./7-movethatfile) | Move the file `/tmp/betty` to `/tmp/my_first_directory` |
+| [`8-firstdelete`](8-firstdelete) | Delete the file `betty` |
