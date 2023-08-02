@@ -29,3 +29,4 @@ Scrips as per course requirement
 | [`13-symbolic_link`](./13-symbolic_link) | Create a symbolic link |
 | [`14-copy_html`](./14-copy_html) | Wildcard (*) regex copy |
 | [`100-lets_move`](./100-lets_move) | Leading uppercase regex move |
+| [`101-clean_emacs`](./101-clean_emacs) | Trailing tilde file regex removal |
