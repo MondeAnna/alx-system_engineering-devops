@@ -28,3 +28,4 @@ Scrips as per course requirement
 | [`12-file_type`](./12-file_type) | Show  file type |
 | [`13-symbolic_link`](./13-symbolic_link) | Create a symbolic link |
 | [`14-copy_html`](./14-copy_html) | Wildcard (*) regex copy |
+| [`100-lets_move`](./100-lets_move) | Leading uppercase regex move |
