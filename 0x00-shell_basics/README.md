@@ -7,8 +7,8 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * Bash:     5.1-6ubuntu1
 * Ubuntu:   20.04 LTS
 
-#### Course Projects
+#### Project Files
 
-| Project name | Focal Point |
-| ------------ | ----------- |
-| [`0x00-shell_basics`](0x00-shell_basics) | [Shell Navigation](https://andysbrainbook.readthedocs.io/en/latest/unix/Unix_01_Navigation.html) |
+Scrips as per course requirement
+
+_Yet to be added_
