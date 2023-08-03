@@ -25,3 +25,4 @@ Scrips as per course requirement
 | [`9-John_Doe`](9-John_Doe) | Change File Mode -> Set to `-rwxr-x-wx` |
 | [`10-mirror_permissions`](10-mirror_permissions) | Change File Mode -> Reference File |
 | [`11-directories_permissions`](11-directories_permissions) | Change File Mode -> Add All User Execution to subdirs |
+| [`12-directory_permissions`](12-directory_permissions) | Set Mode at dir creation |
