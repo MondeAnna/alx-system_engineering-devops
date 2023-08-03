@@ -20,3 +20,4 @@ Scrips as per course requirement
 | [`4-empty`](4-empty) | Create an empty file |
 | [`5-execute`](5-execute) | Change Mile Mode -> Add User Execution |
 | [`6-multiple_permissions`](6-multiple_permissions) | Change File Mode -> Multi-Op |
+| [`7-everybody`](7-everybody) | Change File Mode -> Add All User Execution |
