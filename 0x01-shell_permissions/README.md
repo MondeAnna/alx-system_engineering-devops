@@ -27,3 +27,4 @@ Scrips as per course requirement
 | [`11-directories_permissions`](11-directories_permissions) | Change File Mode -> Add All User Execution to subdirs |
 | [`12-directory_permissions`](12-directory_permissions) | Set Mode at dir creation |
 | [`13-change_group`](13-change_group) | Change group owner |
+| [`100-change_owner_and_group`](100-change_owner_and_group) | Change owner and group |
