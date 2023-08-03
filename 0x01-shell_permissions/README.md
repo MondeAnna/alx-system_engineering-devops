@@ -29,3 +29,4 @@ Scrips as per course requirement
 | [`13-change_group`](13-change_group) | Change group owner |
 | [`100-change_owner_and_group`](100-change_owner_and_group) | Change owner and group |
 | [`101-symbolic_link_permissions`](101-symbolic_link_permissions) | Change owner of symbolic link |
+| [`102-if_only`](102-if_only) | Conditional change of ownership |
