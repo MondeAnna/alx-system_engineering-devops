@@ -21,3 +21,5 @@ Scrips as per course requirement
 | [`5-execute`](5-execute) | Change Mile Mode -> Add User Execution |
 | [`6-multiple_permissions`](6-multiple_permissions) | Change File Mode -> Multi-Op |
 | [`7-everybody`](7-everybody) | Change File Mode -> Add All User Execution |
+| [`8-James_Bond`](8-James_Bond) | Change File Mode -> Restrict User and Group |
+
