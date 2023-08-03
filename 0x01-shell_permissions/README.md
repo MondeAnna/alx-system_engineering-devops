@@ -18,3 +18,4 @@ Scrips as per course requirement
 | [`2-groups`](2-groups) | Show group memberships |
 | [`3-new_owner`](3-new_owner) | Change owner and/or group |
 | [`4-empty`](4-empty) | Create an empty file |
+| [`5-execute`](5-execute) | Change Mile Mode -> Add User Execution |
