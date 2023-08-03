@@ -23,3 +23,4 @@ Scrips as per course requirement
 | [`7-everybody`](7-everybody) | Change File Mode -> Add All User Execution |
 | [`8-James_Bond`](8-James_Bond) | Change File Mode -> Restrict User and Group |
 | [`9-John_Doe`](9-John_Doe) | Change File Mode -> Set to `-rwxr-x-wx` |
+| [`10-mirror_permissions`](10-mirror_permissions) | Change File Mode -> Reference File |
