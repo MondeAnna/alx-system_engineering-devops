@@ -16,3 +16,4 @@ Scrips as per course requirement
 | [`0-hello_world`](0-hello_world) | Show text in CLI |
 | [`1-confused_smiley`](1-confused_smiley) | Show a confused smiley `"(Ôo)'` |
 | [`2-hellofile`](2-hellofile) | Show file contents |
+| [`3-twofiles`](3-twofiles) | Show contents of two files |
