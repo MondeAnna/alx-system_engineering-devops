@@ -22,3 +22,4 @@ Scrips as per course requirement
 | [`6-third_line`](6-third_line) | Show third line of file |
 | [`7-file`](7-file) | Creates file named with special chars |
 | [`8-cwd_state`](8-cwd_state) | Direct `ls` output to file |
+| [`9-duplicate_last_line`](9-duplicate_last_line) | Duplicate last line of file |
