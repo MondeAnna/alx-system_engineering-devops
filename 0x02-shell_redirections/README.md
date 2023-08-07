@@ -17,3 +17,4 @@ Scrips as per course requirement
 | [`1-confused_smiley`](1-confused_smiley) | Show a confused smiley `"(Ôo)'` |
 | [`2-hellofile`](2-hellofile) | Show file contents |
 | [`3-twofiles`](3-twofiles) | Show contents of two files |
+| [`4-lastlines`](4-lastlines) | Show last ten lines of file |
