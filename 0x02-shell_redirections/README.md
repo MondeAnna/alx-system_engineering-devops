@@ -19,3 +19,4 @@ Scrips as per course requirement
 | [`3-twofiles`](3-twofiles) | Show contents of two files |
 | [`4-lastlines`](4-lastlines) | Show last ten lines of file |
 | [`5-firstlines`](5-firstlines) | Show first ten lines of file |
+| [`6-third_line`](6-third_line) | Show third line of file |
