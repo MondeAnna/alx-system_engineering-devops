@@ -36,3 +36,4 @@ Scrips as per course requirement
 | [`20-hiago`](20-hiago) | Remove chars from input |
 | [`21-reverse`](21-reverse) | Input reversal |
 | [`22-users_and_homes`](22-users_and_homes) | Show users and home dirs |
+| [`100-empty_casks`](100-empty_casks) | Find empty files and dirs in `pwd` and sub-dirs |
