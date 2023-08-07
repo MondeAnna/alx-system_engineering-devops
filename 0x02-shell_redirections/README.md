@@ -30,3 +30,4 @@ Scrips as per course requirement
 | [`14-findthatword`](14-findthatword) | Show entries containing pattern in file |
 | [`15-countthatword`](15-countthatword) | Show count of lines containing pattern in file |
 | [`16-whatsnext`](16-whatsnext) | Show lines containing pattern and 3 lines after |
+| [`17-hidethisword`](17-hidethisword) | Show lines in file without pattern |
