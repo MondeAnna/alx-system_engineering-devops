@@ -35,3 +35,4 @@ Scrips as per course requirement
 | [`19-AZ`](19-AZ) | Replace chars |
 | [`20-hiago`](20-hiago) | Remove chars from input |
 | [`21-reverse`](21-reverse) | Input reversal |
+| [`22-users_and_homes`](22-users_and_homes) | Show users and home dirs |
