@@ -31,3 +31,4 @@ Scrips as per course requirement
 | [`15-countthatword`](15-countthatword) | Show count of lines containing pattern in file |
 | [`16-whatsnext`](16-whatsnext) | Show lines containing pattern and 3 lines after |
 | [`17-hidethisword`](17-hidethisword) | Show lines in file without pattern |
+| [`18-letteronly`] | Show lines in file starting with an alphabet |
