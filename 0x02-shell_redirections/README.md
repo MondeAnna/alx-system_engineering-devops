@@ -38,3 +38,4 @@ Scrips as per course requirement
 | [`22-users_and_homes`](22-users_and_homes) | Show users and home dirs |
 | [`100-empty_casks`](100-empty_casks) | Find empty files and dirs in `pwd` and sub-dirs |
 | [`101-gifs`](101-gifs) | List `.gif` files in `pwd` and sub-dirs |
+| [`102-acrostic`](102-acrostic) | Make string from first letter of each line |
