@@ -21,3 +21,4 @@ Scrips as per course requirement
 | [`5-local_variables`](5-local_variables) | List all var and func |
 | [`6-create_local_variable`](6-create_local_variable) | Create local variable `BEST` |
 | [`7-create_global_variable`](6-create_global_variable) | Create global variable `BEST` |
+| [`8-true_knowledge`](8-true_knowledge) | Variable expansion and arithmetic operations |
