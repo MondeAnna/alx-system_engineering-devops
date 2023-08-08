@@ -17,3 +17,4 @@ Scrips as per course requirement
 | [`1-hello_you`](1-hello_you) | Greet logged in user |
 | [`2-path`](2-path) | Append the dir `/action` to `$PATH` |
 | [`3-paths`](3-paths) | Count dires in `$PATH` |
+| [`4-global_variables`](4-global_variables) | List environmental variables |
