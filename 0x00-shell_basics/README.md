@@ -22,3 +22,4 @@ Scrips as per course requirement
 | [`6-firstdirectory`](./6-firstdirectory) | Create the dir `/tmp/my_first_directory` |
 | [`7-movethatfile`](./7-movethatfile) | Move the file `/tmp/betty` to `/tmp/my_first_directory` |
 | [`8-firstdelete`](8-firstdelete) | Delete the file `betty` |
+| [`9-firstdirdeletion`](./9-firstdirdeletion) | Delete the dir `/tmp/my_first_directory` |
