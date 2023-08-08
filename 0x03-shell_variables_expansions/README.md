@@ -14,3 +14,4 @@ Scrips as per course requirement
 | Filename | Description |
 | -------- | ----------- |
 | [`0-alias`](0-alias) | Alias `ls` so as to empty dir's contents |
+| [`1-hello_you`](1-hello_you) | Greet logged in user |
