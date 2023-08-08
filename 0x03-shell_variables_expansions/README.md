@@ -24,3 +24,4 @@ Scrips as per course requirement
 | [`8-true_knowledge`](8-true_knowledge) | Variable expansion and arithmetic operations |
 | [`9-divide_and_rule`](9-divide_and_rule) | Arithmetic Operation -> Division |
 | [`10-love_exponent_breath`](10-love_exponent_breath) | Arithmetic Operation -> Exponentiation |
+| [`11-binary_to_decimal`](11-binary_to_decimal) | Arithmetic Operation -> Base Conversion |
