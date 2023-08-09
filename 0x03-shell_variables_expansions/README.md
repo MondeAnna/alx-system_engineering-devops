@@ -30,3 +30,4 @@ Scrips as per course requirement
 | [`100-decimal_to_hexadecimal`](100-decimal_to_hexadecimal) | Arithmetic Operation -> Base Conversion |
 | [`101-rot13`](101-rot13) | Rotate by 13 Encryption/Decryption |
 | [`102-odd`](102-odd) | List odd entries |
+| [`102-water_and_str`](102-water_and_str) | Arithmetic Operation -> Base Conversion |
