@@ -17,3 +17,4 @@ Scrips as per course requirement
 | [`1-listit`](1-listit) | Show `pwd` contents |
 | [`2-bring_me_home`](2-bring_me_home) | Switch user from `pwd` to home dir |
 | [`3-list_files`](3-list_files) | Show `pwd` contents in a long format |
+| [`4-listmorefiles`](4-listmorefiles) | Show all contents in `pwd` |
