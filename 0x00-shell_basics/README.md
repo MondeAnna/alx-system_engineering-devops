@@ -24,3 +24,4 @@ Scrips as per course requirement
 | [`8-firstdelete`](8-firstdelete) | Delete the file `betty` |
 | [`9-firstdirdeletion`](./9-firstdirdeletion) | Delete the dir `/tmp/my_first_directory` |
 | [`10-back`](./10-back) | Switch from `pwd` to previous working dir |
+| [`11-lists`](./11-lists) | Show a list of contents fom multiple dirs |
