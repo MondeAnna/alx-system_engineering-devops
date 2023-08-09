@@ -19,3 +19,4 @@ Scrips as per course requirement
 | [`3-list_files`](3-list_files) | Show `pwd` contents in a long format |
 | [`4-listmorefiles`](4-listmorefiles) | Show all contents in `pwd` |
 | [`5-listfilesdigitonly`](./5-listfilesdigitonly) | Show all contents in `pwd` with numeric id's |
+| [`6-firstdirectory`](./6-firstdirectory) | Create the dir `/tmp/my_first_directory` |
