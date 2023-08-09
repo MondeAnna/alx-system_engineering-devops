@@ -16,3 +16,4 @@ Scrips as per course requirement
 | [`0-current_working_directory`](./0-current_working_directory) | Show current dir's absolute pathname | 
 | [`1-listit`](1-listit) | Show `pwd` contents |
 | [`2-bring_me_home`](2-bring_me_home) | Switch user from `pwd` to home dir |
+| [`3-list_files`](3-list_files) | Show `pwd` contents in a long format |
