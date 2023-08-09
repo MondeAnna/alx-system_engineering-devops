@@ -12,3 +12,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | Project name | Focal Point |
 | ------------ | ----------- |
 | [`0x00-shell_basics`](0x00-shell_basics) | [Shell Navigation](https://andysbrainbook.readthedocs.io/en/latest/unix/Unix_01_Navigation.html) |
+| [`0x01-shell_permissions`](0x01-shell_permissions) | [Unix File-System Permissions](https://en.wikipedia.org/wiki/File-system_permissions) |
