@@ -15,3 +15,4 @@ Scrips as per course requirement
 | -------- | ----------- |
 | [`0-iam_betty`](0-iam_betty) | Change effective user ID to `betty` |
 | [`1-who_am_i`](1-who_am_i)] | Show username of effective user ID |
+| [`2-groups`](2-groups) | Show group memberships |
