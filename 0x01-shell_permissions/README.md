@@ -19,3 +19,4 @@ Scrips as per course requirement
 | [`3-new_owner`](3-new_owner) | Change owner and/or group |
 | [`4-empty`](4-empty) | Create an empty file |
 | [`5-execute`](5-execute) | Change Mile Mode -> Add User Execution |
+| [`6-multiple_permissions`](6-multiple_permissions) | Change File Mode -> Multi-Op |
