@@ -26,3 +26,4 @@ Scrips as per course requirement
 | [`10-love_exponent_breath`](10-love_exponent_breath) | Arithmetic Operation -> Exponentiation |
 | [`11-binary_to_decimal`](11-binary_to_decimal) | Arithmetic Operation -> Base Conversion |
 | [`12-combinations`](12-combinations) | Combinatorics -> Two char permutation |
+| [`13-print_float`](13-print_float) | Show float fixed at 2 decimal places |
