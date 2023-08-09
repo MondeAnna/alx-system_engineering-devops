@@ -32,3 +32,4 @@ Scrips as per course requirement
 | [`101-clean_emacs`](./101-clean_emacs) | Trailing tilde file regex removal |
 | [`102-tree`](./102-tree) | Use parent attribut to `mkdir` |
 | [`103-commas`](./103-commas) | Show comma separated content list of `pwd` |
+| [`school.mgc`](./school) | Create magic file `school.mgc`: Links to the compilation src `school` |
