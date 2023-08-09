@@ -28,3 +28,4 @@ Scrips as per course requirement
 | [`12-newest_files`](12-newest_files) | Show ten newest files in `pwd` |
 | [`13-unique`](13-unique) | Show uniquely occuring entries in file |
 | [`14-findthatword`](14-findthatword) | Show entries containing pattern in file |
+| [`15-countthatword`](15-countthatword) | Show count of lines containing pattern in file |
