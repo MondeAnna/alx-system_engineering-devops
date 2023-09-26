@@ -90,5 +90,7 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 #### SysEng and DevOps Projects
 
 * _[`Show current dir's absolute pathname`](0-current_working_directory)_
+* _[`Show pwd contents`](1-listit)_
 
 <br />
+
