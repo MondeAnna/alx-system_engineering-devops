@@ -105,5 +105,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[`Create a symbolic link`](13-symbolic_link)_
 * _[`Wildcard (*) regex copy`](14-copy_html)_
 * _[`Leading uppercase regex move`](100-lets_move)_
+* _[`Trailing tilde file regex removal`](101-clean_emacs)_
 
 <br />
