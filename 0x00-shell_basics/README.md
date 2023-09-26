@@ -86,3 +86,9 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[Shebang](https://en.wikipedia.org/wiki/Shebang_%28Unix%29)_
 
 <br />
+
+#### SysEng and DevOps Projects
+
+* _[`Show current dir's absolute pathname`](0-current_working_directory)_
+
+<br />
