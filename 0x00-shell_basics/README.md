@@ -102,5 +102,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[`Switch from pwd to previous working dir`](10-back)_
 * _[`Show a list of contents fom multiple dirs`](11-lists)_
 * _[`Show  file type`](12-file_type)_
+* _[`Create a symbolic link`](13-symbolic_link)_
 
 <br />
