@@ -95,5 +95,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[`Show pwd contents in a long format`](3-list_files)_
 * _[`Show all contents in pwd`](4-listmorefiles)_
 * _[`Show all contents in pwd with numeric id's`](5-listfilesdigitonly) _
+* _[`Create the dir /tmp/my_first_directory`](6-firstdirectory)_
 
 <br />
