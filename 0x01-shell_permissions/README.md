@@ -44,5 +44,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 
 * _[`Change effective user ID to betty`](0-iam_betty)_
 * _[`Show username of effective user ID`](1-who_am_i)_
+* _[`Show all groups on system`](2-groups)_
 
 <br />
