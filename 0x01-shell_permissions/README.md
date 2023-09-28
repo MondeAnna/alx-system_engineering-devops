@@ -43,5 +43,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 #### SysEng and DevOps Projects
 
 * _[`Change effective user ID to betty`](0-iam_betty)_
+* _[`Show username of effective user ID`](1-who_am_i)_
 
 <br />
