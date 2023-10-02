@@ -27,3 +27,4 @@ Scrips as per course requirement
 | [`11-directories`](11-directories) | Count dirs and sub-dirs in `pwd` |
 | [`12-newest_files`](12-newest_files) | Show ten newest files in `pwd` |
 | [`13-unique`](13-unique) | Show uniquely occuring entries in file |
+| [`14-findthatword`](14-findthatword) | Show entries containing pattern in file |
