@@ -14,3 +14,4 @@ Scrips as per course requirement
 | Filename | Description |
 | -------- | ----------- |
 | [`0-hello_world`](0-hello_world) | Show text in CLI |
+| [`1-confused_smiley`](1-confused_smiley) | Show a confused smiley `"(Ôo)'` |
