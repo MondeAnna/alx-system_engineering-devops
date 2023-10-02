@@ -23,3 +23,4 @@ Scrips as per course requirement
 | [`7-file`](7-file) | Creates file named with special chars |
 | [`8-cwd_state`](8-cwd_state) | Direct `ls` output to file |
 | [`9-duplicate_last_line`](9-duplicate_last_line) | Duplicate last line of file |
+| [`10-no_more_js`](10-no_more_js) | Remove `.js` files in `pwd` and sub-dirs |
