@@ -21,3 +21,4 @@ Scrips as per course requirement
 | [`5-firstlines`](5-firstlines) | Show first ten lines of file |
 | [`6-third_line`](6-third_line) | Show third line of file |
 | [`7-file`](7-file) | Creates file named with special chars |
+| [`8-cwd_state`](8-cwd_state) | Direct `ls` output to file |
