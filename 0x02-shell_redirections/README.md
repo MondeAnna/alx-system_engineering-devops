@@ -34,3 +34,4 @@ Scrips as per course requirement
 | [`18-letteronly`] | Show lines in file starting with an alphabet |
 | [`19-AZ`](19-AZ) | Replace chars |
 | [`20-hiago`](20-hiago) | Remove chars from input |
+| [`21-reverse`](21-reverse) | Input reversal |
