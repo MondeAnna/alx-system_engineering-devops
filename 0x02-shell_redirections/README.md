@@ -33,3 +33,4 @@ Scrips as per course requirement
 | [`17-hidethisword`](17-hidethisword) | Show lines in file without pattern |
 | [`18-letteronly`] | Show lines in file starting with an alphabet |
 | [`19-AZ`](19-AZ) | Replace chars |
+| [`20-hiago`](20-hiago) | Remove chars from input |
