@@ -28,3 +28,4 @@ Scrips as per course requirement
 | [`12-combinations`](12-combinations) | Combinatorics -> Two char permutation |
 | [`13-print_float`](13-print_float) | Show float fixed at 2 decimal places |
 | [`100-decimal_to_hexadecimal`](100-decimal_to_hexadecimal) | Arithmetic Operation -> Base Conversion |
+| [`101-rot13`](101-rot13) | Rotate by 13 Encryption/Decryption |
