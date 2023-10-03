@@ -39,5 +39,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 [Shell Navigation](https://andysbrainbook.readthedocs.io/en/latest/unix/Unix_01_Navigation.html)
 [Shell Permissions](https://www.geeksforgeeks.org/permissions-in-linux/)
 [Standard Stream](https://en.wikipedia.org/wiki/Standard_streams) and [Redirection](https://en.wikipedia.org/wiki/Redirection_(computing))
+[Shell Initialization](https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_01.html)
 
 <br />
