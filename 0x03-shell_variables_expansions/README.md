@@ -19,3 +19,4 @@ Scrips as per course requirement
 | [`3-paths`](3-paths) | Count dires in `$PATH` |
 | [`4-global_variables`](4-global_variables) | List environmental variables |
 | [`5-local_variables`](5-local_variables) | List all var and func |
+| [`6-create_local_variable`](6-create_local_variable) | Create local variable `BEST` |
