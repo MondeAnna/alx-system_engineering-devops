@@ -27,3 +27,4 @@ Scrips as per course requirement
 | [`11-binary_to_decimal`](11-binary_to_decimal) | Arithmetic Operation -> Base Conversion |
 | [`12-combinations`](12-combinations) | Combinatorics -> Two char permutation |
 | [`13-print_float`](13-print_float) | Show float fixed at 2 decimal places |
+| [`100-decimal_to_hexadecimal`](100-decimal_to_hexadecimal) | Arithmetic Operation -> Base Conversion |
