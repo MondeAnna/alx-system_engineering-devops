@@ -15,5 +15,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[`Simple Until Loop`](3-until_best_school)_
 * _[`Simple if Statement`](4-if_9_say_hi)_
 * _[`Simple if/elif/else Statement`](5-4_bad_luck_8_is_your_chance)_
+* _[`More Simple if/elif/else Statement`](6-superstitious_numbers)_
 
 <br />
