@@ -19,5 +19,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[`Military Clock`](7-clock)_
 * _[`Split Filenames at Delimiter`](8-for_ls)_
 * _[`Provide Information About File`](9-to_file_or_not_to_file)_
+* _[`Classic FizzBuzz`](10-fizzbuzz)_
 
 <br />
