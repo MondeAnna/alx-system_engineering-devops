@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# cut file stream
+
+IFS=":"
+
+while read -r user _ uid _ _ home _
+do
+    echo "$user:$uid:$home"
+done < /etc/passwd
