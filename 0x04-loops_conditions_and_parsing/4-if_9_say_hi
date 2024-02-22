@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+# prints `Best School` ten times, slipping in `Hi` second to last
+
+iter=1
+
+while [ $iter -le 10 ]
+do
+    echo "Best School"
+
+    if [ $iter -eq 9 ]
+    then
+        echo "Hi"
+    fi
+
+    (( iter++ ))
+done
