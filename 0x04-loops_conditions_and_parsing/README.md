@@ -11,5 +11,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 
 * _[`RSA Public Key`](0-RSA_public_key.pub)_
 * _[`Simple For Loop`](1-for_best_school)_
+* _[`Simple While Loop`](2-while_best_school)_
 
 <br />
