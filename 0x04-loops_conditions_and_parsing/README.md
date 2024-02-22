@@ -13,5 +13,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[`Simple For Loop`](1-for_best_school)_
 * _[`Simple While Loop`](2-while_best_school)_
 * _[`Simple Until Loop`](3-until_best_school)_
+* _[`Simple if Statement`](4-if_9_say_hi)_
 
 <br />
