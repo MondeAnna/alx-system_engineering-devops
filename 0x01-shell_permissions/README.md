@@ -59,5 +59,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[`Change owner and group`](100-change_owner_and_group)_
 * _[`Change owner of symbolic link`](101-symbolic_link_permissions)_
 * _[`Conditional change of ownership`](102-if_only)_
+* _[`CLI playback of StarWars IV`](103-Star_Wars)_
 
 <br />
