@@ -108,5 +108,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[`Trailing tilde file regex removal`](101-clean_emacs)_
 * _[`Use parent attribut to mkdir`](102-tree)_
 * _[`Show comma separated content list of pwd`](103-commas)_
+* _[`Create magic file 'school.mgc'`](school)_
 
 <br />
