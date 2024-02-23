@@ -22,5 +22,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[`Classic FizzBuzz`](10-fizzbuzz)_
 * _[`Cut File Stream`](100-read_and_cut)_
 * _[`More File Stream Cutting`](101-tell_the_story_of_passwd)_
+* _[`awk Parsing`](102-lets_parse_apache_logs)_
 
 <br />
