@@ -91,6 +91,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 
 * _[`Show current dir's absolute pathname`](0-current_working_directory)_
 * _[`Show pwd contents`](1-listit)_
+* _[`Switch user from pwd to home dir`](2-bring_me_home)_
 
 <br />
-
