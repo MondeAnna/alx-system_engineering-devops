@@ -43,5 +43,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[`Endless Loop`](4-to_infinity_and_beyond)_
 * _[`Kill Endless Loop`](5-dont_stop_me_now)_
 * _[`More Kill Endless Loop`](6-stop_me_if_you_can)_
+* _[`Kill Beheaded Process`](8-beheaded_process)_
 
 <br />
