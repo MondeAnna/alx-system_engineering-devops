@@ -33,3 +33,9 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[Process management in linux](https://www.digitalocean.com/community/tutorials/process-management-in-linux)_
 
 <br />
+
+#### SysEng and DevOps Projects
+
+* _[`Display Own Bash Script PID`](0-what-is-my-pid)_
+
+<br />
