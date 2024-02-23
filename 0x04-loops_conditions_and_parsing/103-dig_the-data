@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# awk log parsing
+
+awk '{ logs[$1 OFS $9]++ } END { for (entry in logs) {print logs[entry], entry | "sort -rn"} }' apache-access.log
