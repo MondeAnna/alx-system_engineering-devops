@@ -39,3 +39,9 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[Permissions](https://linuxcommand.org/lc3_lts0090.php)_
 
 <br />
+
+#### SysEng and DevOps Projects
+
+* _[`Change effective user ID to betty`](0-iam_betty)_
+
+<br />
