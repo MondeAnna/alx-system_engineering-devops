@@ -33,3 +33,10 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
     * The folder of each project, containing a description of the project
 
 <br />
+
+#### System Engineering and DevOps Related Concepts
+
+[Shell Navigation](https://andysbrainbook.readthedocs.io/en/latest/unix/Unix_01_Navigation.html)
+
+<br />
+
