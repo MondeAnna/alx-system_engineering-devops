@@ -49,5 +49,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[`Create an empty file`](4-empty)_
 * _[`Change Mile Mode -> Add User Execution`](5-execute)_
 * _[`Change File Mode -> Multi-Op`](6-multiple_permissions)_
+* _[`Change File Mode -> Add All User Execution`](7-everybody)_
 
 <br />
