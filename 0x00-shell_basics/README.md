@@ -99,5 +99,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[`Move the file '/tmp/betty' to '/tmp/my_first_directory'`](7-movethatfile)_
 * _[`Delete the file betty`](8-firstdelete)_
 * _[`Delete the dir /tmp/my_first_directory`](9-firstdirdeletion)_
+* _[`Switch from pwd to previous working dir`](10-back)_
 
 <br />
