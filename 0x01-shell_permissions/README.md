@@ -50,5 +50,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[`Change Mile Mode -> Add User Execution`](5-execute)_
 * _[`Change File Mode -> Multi-Op`](6-multiple_permissions)_
 * _[`Change File Mode -> Add All User Execution`](7-everybody)_
+* _[`Change File Mode -> Restrict User and Group`](8-James_Bond)_
 
 <br />
