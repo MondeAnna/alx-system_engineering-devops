@@ -37,5 +37,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 #### SysEng and DevOps Projects
 
 * _[`Display Own Bash Script PID`](0-what-is-my-pid)_
+* _[`List Currently Running Processes`](1-list_your_processes)_
 
 <br />
