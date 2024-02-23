@@ -54,5 +54,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[`Change File Mode -> Set to '-rwxr-x-wx'`](9-John_Doe)_
 * _[`Change File Mode -> Reference File`](10-mirror_permissions)_
 * _[`Change File Mode -> Add All User Execution to subdirs`](11-directories_permissions)_
+* _[`Set Mode at dir creation`](12-directory_permissions)_
 
 <br />
