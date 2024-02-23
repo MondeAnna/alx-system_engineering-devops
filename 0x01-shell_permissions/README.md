@@ -55,5 +55,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[`Change File Mode -> Reference File`](10-mirror_permissions)_
 * _[`Change File Mode -> Add All User Execution to subdirs`](11-directories_permissions)_
 * _[`Set Mode at dir creation`](12-directory_permissions)_
+* _[`Change group owner`](13-change_group)_
 
 <br />
