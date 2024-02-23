@@ -103,5 +103,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[`Show a list of contents fom multiple dirs`](11-lists)_
 * _[`Show  file type`](12-file_type)_
 * _[`Create a symbolic link`](13-symbolic_link)_
+* _[`Wildcard (*) regex copy`](14-copy_html)_
 
 <br />
