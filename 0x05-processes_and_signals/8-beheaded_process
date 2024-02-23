@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# kill background job
+
+kill "$(jobs -l | grep 7-highlander | awk '{print $1}' | tr -d '[]+')"
