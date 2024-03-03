@@ -59,5 +59,6 @@ sylvain@ubuntu$ ./example.rb 127.0.0.a
 * _[`Match Repetitive Pattern 02`](./3-repetition_token_2.rb)_
 * _[`Match Repetitive Pattern 03`](./4-repetition_token_3.rb)_
 * _[`Match with Anchors`](./5-beginning_and_end.rb)_
+* _[`Match Ten Digit Number`](6-phone_number.rb)_
 
 <br />
