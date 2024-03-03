@@ -54,5 +54,6 @@ sylvain@ubuntu$ ./example.rb 127.0.0.a
 #### SysEng and DevOps Projects
 
 * _[`Match School`](0-simply_match_school.rb)_
+* _[`Match Repetitive Pattern 00`](./1-repetition_token_0.rb)_
 
 <br />
