@@ -30,3 +30,29 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[Learn Regular Expressions with simple, interactive exercises](https://regexone.com/)_
 
 <br />
+
+#### Background Context
+
+For this project, you have to build your regular expression using _[Oniguruma](https://www.rubydoc.info/gems/oniguruma/1.1.0)_, a regular expression library used by _[Ruby](https://www.ruby-lang.org/en/)_ by default. Note that other regular expression libraries sometimes have different properties.
+
+Because the focus of this exercise is to play with regular expressions (regex), here is the _Ruby_ code that you should use, just replace the regexp part, meaning the code in between the `//`:
+
+```
+sylvain@ubuntu$ cat example.rb
+#!/usr/bin/env ruby
+puts ARGV[0].scan(/127.0.0.[0-9]/).join
+sylvain@ubuntu$
+sylvain@ubuntu$ ./example.rb 127.0.0.2
+127.0.0.2
+sylvain@ubuntu$ ./example.rb 127.0.0.1
+127.0.0.1
+sylvain@ubuntu$ ./example.rb 127.0.0.a
+```
+
+<br />
+
+#### SysEng and DevOps Projects
+
+* _[`Match School`](0-simply_match_school.rb)_
+
+<br />
