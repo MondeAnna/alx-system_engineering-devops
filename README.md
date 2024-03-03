@@ -41,5 +41,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 [Standard Stream](https://en.wikipedia.org/wiki/Standard_streams) and [Redirection](https://en.wikipedia.org/wiki/Redirection_(computing))
 [Shell Initialization](https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_01.html)
 [Processes](https://www.geeksforgeeks.org/processes-in-linuxunix/) and [Signals](https://www.geeksforgeeks.org/signal-handling-in-linux-through-the-signal-function/)
+[Regual Expressions](https://www.geeksforgeeks.org/write-regular-expressions/)
 
 <br />
