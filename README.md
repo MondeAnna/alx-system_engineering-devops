@@ -42,5 +42,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 [Shell Initialization](https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_01.html)
 [Processes](https://www.geeksforgeeks.org/processes-in-linuxunix/) and [Signals](https://www.geeksforgeeks.org/signal-handling-in-linux-through-the-signal-function/)
 [Regual Expressions](https://www.geeksforgeeks.org/write-regular-expressions/)
+[Web Infrastructure Design](https://www.geeksforgeeks.org/how-web-works-web-application-architecture-for-beginners/)
 
 <br />
