@@ -48,3 +48,9 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
     * In this project, again, avoid going in details if not asked
 
 <br />
+
+#### Web Infrastructure Design
+
+* _[`Simple Web Stack`](0-simple_web_stack)_
+
+<br />
