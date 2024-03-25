@@ -52,5 +52,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 #### Web Infrastructure Design
 
 * _[`Simple Web Stack`](0-simple_web_stack)_
+* _[`Distributed Web Infrastructure`](1-distributed_web_infrastructure)_
 
 <br />
