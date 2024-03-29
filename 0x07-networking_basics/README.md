@@ -68,5 +68,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 #### SysEng and DevOps Projects
 
 * _[`OSI Model`](0-OSI_model)_
+* _[`Types of Networks`](1-types_of_network)_
 
 <br />
