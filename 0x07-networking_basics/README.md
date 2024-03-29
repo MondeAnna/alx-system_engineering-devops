@@ -64,3 +64,9 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[Positional parameters](https://www.adminschoice.com/bash-positional-parameters)_
 
 <br />
+
+#### SysEng and DevOps Projects
+
+* _[`OSI Model`](0-OSI_model)_
+
+<br />
