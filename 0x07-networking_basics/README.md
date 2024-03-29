@@ -70,5 +70,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[`OSI Model`](0-OSI_model)_
 * _[`Types of Networks`](1-types_of_network)_
 * _[`MAC and IP Addresses`](2-MAC_and_IP_address)_
+* _[`UDP and TCP`](3-UDP_and_TCP)_
 
 <br />
