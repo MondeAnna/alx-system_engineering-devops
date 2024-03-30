@@ -36,5 +36,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 
 * _[`Alter Network Resolutions`](0-change_your_home_IP)_
 * _[`Show Attached IPs`](1-show_attached_IPs)_
+* _[`Port Listening`](100-port_listening_on_localhost)_
 
 <br />
