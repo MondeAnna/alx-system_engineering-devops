@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# show machine's attached ip addresses
+for name in $( hostname -I )
+do
+  echo "$name"
+done
