@@ -31,3 +31,9 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[Netcat examples](https://www.thegeekstuff.com/2012/04/nc-command-examples/)_
 
 <br />
+
+#### SysEng and DevOps Projects
+
+* _[`Alter Network Resolutions`](0-change_your_home_IP)_
+
+<br />
