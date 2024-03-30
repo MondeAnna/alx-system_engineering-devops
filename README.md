@@ -60,5 +60,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 [Processes](https://www.geeksforgeeks.org/processes-in-linuxunix/) and [Signals](https://www.geeksforgeeks.org/signal-handling-in-linux-through-the-signal-function/)
 [Regual Expressions](https://www.geeksforgeeks.org/write-regular-expressions/)
 [Networking Fundamentals](https://www.geeksforgeeks.org/basics-computer-networking/)
+[Web Infrastructure Design](https://www.geeksforgeeks.org/how-web-works-web-application-architecture-for-beginners/)
 
 <br />
