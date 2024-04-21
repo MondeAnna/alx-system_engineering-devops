@@ -64,5 +64,6 @@ $ gem install puppet-lint
 
 * _[`Create a File`](0-create_a_file.pp)_
 * _[`Install a Package`](1-install_a_package.pp)_
+* _[`Execute a Command`](2-execute_a_command.pp)_
 
 <br />
