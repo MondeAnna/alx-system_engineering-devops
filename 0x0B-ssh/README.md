@@ -52,6 +52,7 @@ Should it become necessary to recreate a public/private key pair, follow the **T
 
 * _[`Use a Private Key`](0-use_a_private_key)_
 * _[`Create SSH Key Pair`](1-create_ssh_key_pair)_
-* _[`Client Configuration`](2-ssh_config)_
+* _[`Client Configuration Using Shell`](2-ssh_config)_
+* _[`Client Configuration Using Puppet`](100-puppet_ssh_config.pp)_
 
 <br />
