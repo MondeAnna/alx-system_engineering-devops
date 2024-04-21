@@ -59,3 +59,9 @@ $ gem install puppet-lint
 ```
 
 <br />
+
+#### Configuration Management Scripts
+
+* _[`Create a File`](0-create_a_file.pp)_
+
+<br />
