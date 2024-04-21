@@ -61,5 +61,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 [Regual Expressions](https://www.geeksforgeeks.org/write-regular-expressions/)
 [Networking Fundamentals](https://www.geeksforgeeks.org/basics-computer-networking/)
 [Web Infrastructure Design](https://www.geeksforgeeks.org/how-web-works-web-application-architecture-for-beginners/)
+[Cofiguration Management](https://www.geeksforgeeks.org/project-management-configuration-management-and-change-control/) and [System Configuration Management](https://www.geeksforgeeks.org/software-engineering-system-configuration-management/)
 
 <br />
