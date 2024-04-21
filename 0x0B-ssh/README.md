@@ -47,3 +47,9 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 Should it become necessary to recreate a public/private key pair, follow the **Task 00** instructions in the package **0x04-loops_conditions_and_parsing**.
 
 <br />
+
+#### SSH Scripts
+
+* _[`Use a Private Key`](0-use_a_private_key)_
+
+<br />
