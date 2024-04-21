@@ -62,5 +62,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 [Networking Fundamentals](https://www.geeksforgeeks.org/basics-computer-networking/)
 [Web Infrastructure Design](https://www.geeksforgeeks.org/how-web-works-web-application-architecture-for-beginners/)
 [Cofiguration Management](https://www.geeksforgeeks.org/project-management-configuration-management-and-change-control/) and [System Configuration Management](https://www.geeksforgeeks.org/software-engineering-system-configuration-management/)
+[SSH](https://www.geeksforgeeks.org/introduction-to-sshsecure-shell-keys/)
 
 <br />
