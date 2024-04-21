@@ -63,5 +63,6 @@ $ gem install puppet-lint
 #### Configuration Management Scripts
 
 * _[`Create a File`](0-create_a_file.pp)_
+* _[`Install a Package`](1-install_a_package.pp)_
 
 <br />
