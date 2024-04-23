@@ -73,3 +73,8 @@ Note that as you cannot use interactive software such as `emacs` or `vi` in your
 
 <br />
 
+#### Dubugging
+
+* _[`Start Software Server`](0-give_me_a_page)_
+
+<br />
