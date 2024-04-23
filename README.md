@@ -64,5 +64,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 [Cofiguration Management](https://www.geeksforgeeks.org/project-management-configuration-management-and-change-control/) and [System Configuration Management](https://www.geeksforgeeks.org/software-engineering-system-configuration-management/)
 [SSH](https://www.geeksforgeeks.org/introduction-to-sshsecure-shell-keys/)
 [Debugging](https://www.geeksforgeeks.org/software-engineering-debugging/)
+[Web Server](https://www.geeksforgeeks.org/web-server-and-its-type/)
 
 <br />
