@@ -86,3 +86,9 @@ To test your answer Bash script, feel free to reproduce the checker environment:
 * _[Logs files on Linux](https://www.cyberciti.biz/faq/ubuntu-linux-gnome-system-log-viewer/)_
 
 <br />
+
+#### SysEng and DevOps Projects
+
+* _[`Transfer File to Server`](0-transfer_file)_
+
+<br />
