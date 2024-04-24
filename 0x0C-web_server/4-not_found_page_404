@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+# custom 404 message
+error="/etc/nginx/sites-available/custom-error"
+site="/etc/nginx/sites-available/default"
+pattern="server_name _;"
+
+
+echo "Ceci n'est pas une page" > $error
+
+
+# ensure nginx in list of available packages
+sudo apt update
+
+
+# localised installation of nginx on server
+sudo apt -y install nginx
+
+
+sed -i "/$pattern/a \
+location = /xyzfoo {\
+\n\t\treturn 404 $error;\
+\n\t}" $site
+
+
+# restart server
+sudo service nginx restart
