@@ -91,5 +91,6 @@ To test your answer Bash script, feel free to reproduce the checker environment:
 
 * _[`Transfer File to Server`](0-transfer_file)_
 * _[`Install Web Server`](1-install_nginx_web_server)_
+* _[`Provide Domain Name`](2-setup_a_domain_name)_
 
 <br />
