@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+# localised installation of nginx on server
+
+
+# ensure nginx in list of available packages
+sudo apt update
+sudo apt -y install nginx
+
+
+# alter landing page
+sudo echo "Hello World!" > /var/www/html/index.nginx-debian.html
+
+
+# restart server
+sudo service nginx restart

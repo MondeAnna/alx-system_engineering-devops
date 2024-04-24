@@ -90,5 +90,6 @@ To test your answer Bash script, feel free to reproduce the checker environment:
 #### SysEng and DevOps Projects
 
 * _[`Transfer File to Server`](0-transfer_file)_
+* _[`Install Web Server`](1-install_nginx_web_server)_
 
 <br />
