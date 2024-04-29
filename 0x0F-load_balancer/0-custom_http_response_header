@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+# custom http response header
+
+# prep os
+apt -y update
+apt -y upgrade
+
+# install server
+apt -y install nginx
+
+# make landing page
+echo "Hellow World!" > /var/www/html/index.nginx-debian.html
+
+# custom error page
+echo "Ceci n'est pas une page" > /usr/share/nginx/html/custom_404.html
+
+# add redirectors
+site="/etc/nginx/sites-available/default"
+sed -i "s/server_name _;/server_name _;\n\n\trewrite ^\/redirect_me https:\/\/stackoverflow.com\/a\/6045497 permanent;\n\n\terror_page 404 \/custom_404.html;\n\n\tlocation = \/custom_404.html {\n\t\troot \/usr\/share\/nginx\/html;\n\t\tinternal;\n\t}/" $site
+
+# add custome header
+config="/etc/nginx/nginx.conf"
+sed -i "s/include \/etc\/nginx\/sites-enabled\/\*;/include \/etc\/nginx\/sites-enabled\/\*;\n\tadd_header X-Served-By \"$HOSTNAME\";/" $config
+
+# restart server
+sudo service nginx restart
