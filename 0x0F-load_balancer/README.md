@@ -31,5 +31,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 #### SysEng and DevOps Projects
 
 * _[`Custom HTTP Response Header`](0-custom_http_response_header)_
+* _[`Install Load Balancer`](1-install_load_balancer)_
 
 <br />
