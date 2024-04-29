@@ -94,5 +94,6 @@ To test your answer Bash script, feel free to reproduce the checker environment:
 * _[`Provide Domain Name`](2-setup_a_domain_name)_
 * _[`Permanent Redirection`](3-redirection)_
 * _[`Custom 404 Message`](4-not_found_page_404)_
+* _[`Server Config with Puppet`](7-puppet_install_nginx_web_server.pp)_
 
 <br />
