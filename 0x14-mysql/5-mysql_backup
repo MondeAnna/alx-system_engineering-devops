@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# db backup
+mysqldump -uroot -p"$1" --all-databases > backup.sql 2>&1 | grep -v "Warning: Using a password"
+tar -zcf "$(date +%d%m%Y)".tar.gz backup.sql
