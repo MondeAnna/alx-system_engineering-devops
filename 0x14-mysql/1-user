@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# create user for assessor's access
+cat < 1-user.sql | mysql -uroot -p

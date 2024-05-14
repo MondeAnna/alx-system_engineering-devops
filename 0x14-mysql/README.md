@@ -42,5 +42,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 #### SysEng and DevOps Projects
 
 * _[`Install MySQL`](0-mysql)_
+* _[`Create User`](1-user)_
 
 <br />
