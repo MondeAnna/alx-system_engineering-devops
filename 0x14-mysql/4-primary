@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+# configure primary db
+
+# open replication ip and port
+replica="54.209.218.24"
+sudo ufw allow from "$replica" to any port 3306
+
+# config primary
+sudo cp 4-mysql_configuration_primary /etc/mysql/mysql.conf.d/mysqld.cnf
+sudo systemctl restart mysql
+
+# retrieve binary log
+echo "FLUSH TABLES WITH READ LOCK;" | mysql -uroot -p
+echo "SHOW MASTER STATUS;" | mysql -uroot -p
+
+# new cli window while locked
+## sudo mysqldump -u root tyrell_corp > tyrell_corp.sql
+
+echo "UNLOCK TABLES;" | mysql -uroot -p
+
+# copy binary log to replica
+scp -i ~/.ssh/school tyrell_corp.sql ubuntu@54.209.218.24:/tmp/

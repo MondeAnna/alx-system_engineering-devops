@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+# configure primary db
+
+# create db
+echo "CREATE DATABASE IF NOT EXISTS tyrell_corp;" | mysql -uroot -p
+
+# import binary log
+sudo mysql -uroot -p tyrell_corp < /tmp/tyrell_corp.sql
+
+# config replica
+sudo cp 4-mysql_configuration_replica /etc/mysql/mysql.conf.d/mysqld.cnf
+sudo systemctl restart mysql
+
+# config replications
+src="MASTER_HOST='18.207.235.144'"
+port="MASTER_PORT=3306"
+user="MASTER_USER='replica_user'"
+pass="MASTER_PASSWORD='projectcorrection280hbtn'"
+log="MASTER_LOG_FILE='mysql-bin.000002'"
+pos="MASTER_LOG_POS=154"
+
+echo "CHANGE MASTER TO $src, $port, $user, $pass, $log, $pos;" | mysql -uroot -p
+
+# activate
+echo "START SLAVE;" | mysql -uroot -p

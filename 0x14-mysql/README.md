@@ -45,5 +45,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[`Create User`](1-user)_
 * _[`Create Table`](2-table)_
 * _[`Create Replica User`](3-replica)_
+* _[`Create Primary`](4-primary)_ and _[`Create Replica`](4-replica)_
 
 <br />
