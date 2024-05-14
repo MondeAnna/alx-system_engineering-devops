@@ -44,5 +44,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[`Install MySQL`](0-mysql)_
 * _[`Create User`](1-user)_
 * _[`Create Table`](2-table)_
+* _[`Create Replica User`](3-replica)_
 
 <br />
