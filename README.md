@@ -67,5 +67,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 [Web Server](https://www.geeksforgeeks.org/web-server-and-its-type/)
 [Load Balancer](https://www.geeksforgeeks.org/what-is-load-balancer-system-design/)
 [Fire Wall](https://www.geeksforgeeks.org/linux-firewall/)
+[MySQL](https://www.geeksforgeeks.org/what-is-mysql/)
 
 <br />
