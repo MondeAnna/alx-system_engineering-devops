@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# create `nexus6` table inside `tyrell_corp` dd
+# execution to be done on parent database
+cat < 2-table.sql | mysql -uroot -p
