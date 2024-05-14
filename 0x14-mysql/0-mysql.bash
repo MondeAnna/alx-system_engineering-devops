@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-# sudo wget -O mysql57 https://raw.githubusercontent.com/nuuxcode/alx-system_engineering-devops/master/scripts/mysql57 && sudo chmod +x mysql57 && sudo ./mysql57
 echo ""
 echo "if wanna read the guide:"
 echo "https://docs.google.com/document/d/1btVRofXP75Cj90_xq2x8AmzuMPOKq6D_Dt_SCDD6GrU/"

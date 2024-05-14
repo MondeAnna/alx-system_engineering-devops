@@ -41,6 +41,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 
 #### SysEng and DevOps Projects
 
-* _[`MySQL Installation`](0-install_mysql)_
+* _[`Install MySQL`](0-mysql)_
 
 <br />
