@@ -38,3 +38,9 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[Build a robust database backup strategy](https://www.digitalocean.com/community/tutorials/how-to-set-up-replication-in-mysql)_
 
 <br />
+
+#### SysEng and DevOps Projects
+
+* _[`MySQL Installation`](0-install_mysql)_
+
+<br />
