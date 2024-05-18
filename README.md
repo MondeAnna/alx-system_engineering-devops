@@ -66,5 +66,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 [Debugging](https://www.geeksforgeeks.org/software-engineering-debugging/)
 [Web Server](https://www.geeksforgeeks.org/web-server-and-its-type/)
 [Load Balancer](https://www.geeksforgeeks.org/what-is-load-balancer-system-design/)
+[Fire Wall](https://www.geeksforgeeks.org/linux-firewall/)
 
 <br />
