@@ -51,3 +51,9 @@ This is a perfect example of a task that is not suited for Bash scripting, so le
 * _[PEP8 Python style - having a clean code respecting style guide is really appreciated in the industry](https://peps.python.org/pep-0008/)_
 
 <br />
+
+#### SysEng and DevOps Projects
+
+* _[`GET`](0-gather_data_from_an_API.py)_
+
+<br />
