@@ -56,5 +56,6 @@ This is a perfect example of a task that is not suited for Bash scripting, so le
 
 * _[`GET`](0-gather_data_from_an_API.py)_
 * _[`Export to CSV`](1-export_to_CSV.py)_
+* _[`Export to JSON`](2-export_to_JSON.py)_
 
 <br />
