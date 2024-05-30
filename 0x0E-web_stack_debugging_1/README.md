@@ -76,5 +76,6 @@ Note that as you cannot use interactive software such as `emacs` or `vi` in your
 #### SysEng and DevOps Projects
 
 * _[`Open Port 80 for NginX`](0-nginx_likes_port_80)_
+* _[`Open Port 80 for NginX II`](1-debugging_made_short)_
 
 <br />
