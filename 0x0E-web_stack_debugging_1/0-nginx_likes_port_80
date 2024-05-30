@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# allow nginx through port 80
+ufw allow 'Nginx HTTP'
+nginx -s restart

@@ -72,3 +72,9 @@ sylvain@ubuntu:~$
 Note that as you cannot use interactive software such as `emacs` or `vi` in your Bash script, everything needs to be done from the command line (including file edition).
 
 <br />
+
+#### SysEng and DevOps Projects
+
+* _[`Open Port 80 for NginX`](0-nginx_likes_port_80)_
+
+<br />
