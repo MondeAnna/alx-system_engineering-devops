@@ -42,5 +42,6 @@ A great API to use for some practice is the Reddit API. There's a lot of endpoin
 #### SysEng and DevOps Projects
 
 * _[`Reddit API: GET Subscriber Count`](0-subs.py)_
+* _[`Reddit API: Titles of 10 Hottest Post`](1-top_ten.py)_
 
 <br />
