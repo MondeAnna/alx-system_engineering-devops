@@ -38,3 +38,9 @@ A great API to use for some practice is the Reddit API. There's a lot of endpoin
 * _[Query String](https://en.wikipedia.org/wiki/Query_string)_
 
 <br />
+
+#### SysEng and DevOps Projects
+
+* _[`Reddit API: GET Subscriber Count`](0-subs.py)_
+
+<br />
