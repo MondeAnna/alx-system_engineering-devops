@@ -44,5 +44,6 @@ A great API to use for some practice is the Reddit API. There's a lot of endpoin
 #### SysEng and DevOps Projects
 
 * _[`Install Datadog-Agent`]_
+* _[`Metrics Monitoring`]_
 
 <br />
