@@ -69,5 +69,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 [Fire Wall](https://www.geeksforgeeks.org/linux-firewall/)
 [MySQL](https://www.geeksforgeeks.org/what-is-mysql/)
 [REST API](https://www.geeksforgeeks.org/rest-api-introduction/)
+[Web-Stack Monitoring](https://codynego.hashnode.dev/web-stack-monitoring-for-beginners)
 
 <br />
