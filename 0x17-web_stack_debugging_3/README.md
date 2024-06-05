@@ -33,3 +33,9 @@ The web stack you are debugging today is a Wordpress website running on a LAMP s
 * _[Nginx logging and monitoring](https://docs.nginx.com/nginx/admin-guide/monitoring/logging/)_
 
 <br />
+
+#### SysEng and DevOps Projects
+
+* _[`Correct 500 Error`](0-strace_is_your_friend.pp)_
+
+<br />
