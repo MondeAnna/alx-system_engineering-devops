@@ -45,5 +45,6 @@ A great API to use for some practice is the Reddit API. There's a lot of endpoin
 
 * _[`Install Datadog-Agent`]_
 * _[`Metrics Monitoring`]_
+* _[`Dashboard`](2-setup_datadog)_
 
 <br />
