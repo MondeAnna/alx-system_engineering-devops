@@ -40,3 +40,9 @@ A great API to use for some practice is the Reddit API. There's a lot of endpoin
 * _[Nginx logging and monitoring](https://docs.nginx.com/nginx/admin-guide/monitoring/logging/)_
 
 <br />
+
+#### SysEng and DevOps Projects
+
+* _[`Install Datadog-Agent`]_
+
+<br />
