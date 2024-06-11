@@ -71,5 +71,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 [REST API](https://www.geeksforgeeks.org/rest-api-introduction/)
 [Web-Stack Monitoring](https://codynego.hashnode.dev/web-stack-monitoring-for-beginners)
 [Post-Mortem](https://www.freecodecamp.org/news/what-is-a-software-post-mortem/)
+[Application Server](https://www.geeksforgeeks.org/difference-between-web-server-and-application-server/)
 
 <br />
